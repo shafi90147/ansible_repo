@@ -1,0 +1,7 @@
+what is ansible
+
+Ansible is an open-source IT automation tool 
+for configuring, deploying and managing various IT resources 
+such as servers, applications, and network devices
+
+
